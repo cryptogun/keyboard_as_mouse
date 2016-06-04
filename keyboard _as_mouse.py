@@ -179,10 +179,11 @@ if __name__ == "__main__":
 	print("Left  click            :\t"+left_click_key)
 	print("Right click            :\t"+right_click_key)
 	print("Double left click      :\t"+double_left_click_key)
-	print("Text selection begin   :\t"+select_text_begin_key)
-	print("Text selection ended   :\t"+select_text_end_key)
 	print("Fast move jlik         :\t"+move_left_fast_key)
 	print("Slow move jlik         :\t"+move_left_slow_key)
+	print("Text selection begin   :\t"+select_text_begin_key)
+	print("Text selection ended   :\t"+select_text_end_key)
+	print("Drag and drop          :\tsame as text selection.")
 	print("Full screen positioning:")
 	print("                           "+zone11_key+"890")
 	print("""                      \t\tjkl;

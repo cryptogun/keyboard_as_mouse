@@ -10,6 +10,7 @@ pip install keyboard
 ```
 Change shortcut keys for your preference in `keyboard_as_mouse.py` .
 ##Function examples  
+```text
 Left  click            :        ctrl+space  
 Right click            :        alt+space  
 Double left click      :        ctrl+space+space  
@@ -17,9 +18,10 @@ Text selection begin   :        ctrl+shift+u
 Text selection ended   :        ctrl+shift+o  
 Cursor fast move       :        alt+j/l/i/k  
 Cursor slow move       :        ctrl+shift+j/l/i/k  
-Drag and drop          :        same as text selection. 
+Drag and drop          :        same as text selection.  
 Full screen positioning:  
                            ctrl+7890  
                                 jkl;  
                                 m,./  
 Exit program           :        esc,esc,esc  
+```
