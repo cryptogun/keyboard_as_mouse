@@ -187,7 +187,7 @@ if __name__ == "__main__":
 	print("                           "+zone11_key+"890")
 	print("""                      \t\tjkl;
                       \t\tm,./""")
-	print("Exit                   :\tesc,esc,esc")
+	print("Exit program           :\tesc,esc,esc")
 	print("************************************************")
 
 	# Blocks until you press esc for 3 times.
