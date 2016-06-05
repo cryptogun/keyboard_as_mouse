@@ -1,4 +1,4 @@
-# /usr/bin/env python
+#!/usr/bin/env python
 # coding: utf-8
 
 """Return current cursor position relative to cursor resolution 2^16 x 2^16."""
